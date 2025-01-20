@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.4fd3c79d.css",
-    "main.js": "/react-gh-pages/static/js/main.666d3bdd.js",
-    "static/media/Raleway.ttf": "/react-gh-pages/static/media/Raleway.d8040b0cc740dda7550a.ttf",
-    "static/media/foodImage.png": "/react-gh-pages/static/media/foodImage.e35151ee5531d9e66c25.png",
-    "static/media/plov.png": "/react-gh-pages/static/media/plov.df1360f8c0da25adadf8.png",
-    "static/media/AsiaAS.ttf": "/react-gh-pages/static/media/AsiaAS.7f8ecd8ef000f765c344.ttf",
-    "index.html": "/react-gh-pages/index.html",
-    "static/media/backArrow.svg": "/react-gh-pages/static/media/backArrow.2f2bf45f7c361b79b74d0b2bba46af53.svg",
-    "main.4fd3c79d.css.map": "/react-gh-pages/static/css/main.4fd3c79d.css.map",
-    "main.666d3bdd.js.map": "/react-gh-pages/static/js/main.666d3bdd.js.map"
+    "main.css": "/cafe/static/css/main.c7899618.css",
+    "main.js": "/cafe/static/js/main.78102d07.js",
+    "static/media/Raleway.ttf": "/cafe/static/media/Raleway.d8040b0cc740dda7550a.ttf",
+    "static/media/foodImage.png": "/cafe/static/media/foodImage.e35151ee5531d9e66c25.png",
+    "static/media/plov.png": "/cafe/static/media/plov.df1360f8c0da25adadf8.png",
+    "static/media/AsiaAS.ttf": "/cafe/static/media/AsiaAS.7f8ecd8ef000f765c344.ttf",
+    "index.html": "/cafe/index.html",
+    "static/media/backArrow.svg": "/cafe/static/media/backArrow.2f2bf45f7c361b79b74d0b2bba46af53.svg",
+    "main.c7899618.css.map": "/cafe/static/css/main.c7899618.css.map",
+    "main.78102d07.js.map": "/cafe/static/js/main.78102d07.js.map"
   },
   "entrypoints": [
-    "static/css/main.4fd3c79d.css",
-    "static/js/main.666d3bdd.js"
+    "static/css/main.c7899618.css",
+    "static/js/main.78102d07.js"
   ]
 }
